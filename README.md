@@ -14,7 +14,6 @@ Skills
 - Java
 
 Projects
-- Flappy Bird
 - Psychologist Booking
 - Tutor Booking
 - Metro Mapping
