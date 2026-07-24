@@ -19,5 +19,6 @@ Projects
 - Tutor Booking
 - Metro Mapping
 
-Contact Number: 0886903065
-Email: quoctrung04052003@gmail.com
+My contact Info
+- Contact Number: 0886903065
+- Email: quoctrung04052003@gmail.com
