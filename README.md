@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi 👋 I'm Hoang Quoc Trung
 
-<!--
-**Trung0405/Trung0405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 FPT University Graduate
 
-Here are some ideas to get you started:
+💻 Unity Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🕹️ Passionate about Game Development
+
+Skills
+- Unity
+- C#
+- OOP
+- ASP.NET Core
+- Java
+
+Projects
+- Flappy Bird
+- Psychologist Booking
+- Tutor Booking
+- Metro Mapping
+
+Contact Number: 0886903065
+Email: quoctrung04052003@gmail.com
