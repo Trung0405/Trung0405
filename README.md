@@ -2,9 +2,7 @@ Hi 👋 I'm Hoang Quoc Trung
 
 🎓 FPT University Graduate
 
-💻 Unity Developer
-
-🕹️ Passionate about Game Development
+I'm a Fresher Backend Developer with a strong interest in building scalable applications using .NET technologies. I enjoy learning new technologies, solving problems, and continuously improving my programming skills.
 
 Skills
 - Unity
