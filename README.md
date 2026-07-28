@@ -2,7 +2,7 @@
 
 🎓 FPT University Graduate
 
-I'm a Fresher Backend Developer passionate about building scalable web applications with .NET technologies. I enjoy learning new technologies, solving real-world problems, and continuously improving my software development skills.
+Backend Developer specializing in Java and Spring Boot, with experience building RESTful APIs, authentication systems, and database-driven applications. Passionate about writing clean, maintainable code and continuously improving through real-world projects.
 
 I'm currently seeking opportunities to grow as a Backend Developer while expanding my knowledge of cloud technologies and software architecture.
 
