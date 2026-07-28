@@ -6,42 +6,51 @@ Backend Developer specializing in Java and Spring Boot, with experience building
 
 I'm currently seeking opportunities to grow as a Backend Developer while expanding my knowledge of cloud technologies and software architecture.
 
-## 🛠 Skills
+Languages
+Java
+C#
+SQL
 
-### Languages
-- C#
-- Java
-- SQL
+Backend
+Spring Boot
+ASP.NET Core
+REST API
+JPA/Hibernate
 
-### Backend
-- ASP.NET Core
-- RESTful API
-- MVC
-- OOP
+Database
+MySQL
+SQL Server
 
-### Database
-- SQL Server
-- MySQL
+Tools
+Git
+GitHub
+VS Code
+Docker
+Postman
 
-### Tools
-- Git
-- GitHub
-- Visual Studio
-- VS Code
-
-### Others
-- Unity
-
+Currently Learning
+React
+Design Patterns
+Docker
 ## 📂 Projects
 
 ### 🧠 Psychologist Booking
+Spring Boot • React • AI Integration
 - Java-based booking system that helps students schedule appointments with psychologists.
+- Implemented RESTful APIs and authentication.
+- Integrated AI-powered route suggestions.
 
 ### 📚 Tutor Booking
+Spring Boot • React • AI Integration
 - Java web application for booking tutoring sessions.
+- Implemented RESTful APIs and authentication.
+- Integrated AI-powered route suggestions.
 
 ### 🚇 Metro Mapping
-- .NET application that finds the nearest metro station and suggests bus or walking routes.
+Spring Boot • React • AI Integration
+- Built an intelligent metro route recommendation system.
+- Implemented RESTful APIs and authentication.
+- Integrated AI-powered route suggestions.
 
 ## 🌱 Currently Learning
 
